@@ -22,12 +22,13 @@
         "fbrnc/aoe_profiler": "*",
         "kirchbergerknorr/magento-debug": "*",
 
-        "astorm/LayoutUnremove": "*",
-
         "phpunit/phpunit": "3.7.*",
         "phpunit/dbunit": ">=1.2",
         "phpunit/php-invoker": "*",
         "phpunit/phpunit-selenium": ">=1.2",
         "kirchbergerknorr/phpunit": "*"
+    },
+    "extra": {
+        "magento-root-dir": "htdocs"
     }
 }
